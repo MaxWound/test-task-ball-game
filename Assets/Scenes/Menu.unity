@@ -1179,8 +1179,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 346f717fd692e1447a1812b00bcfbfa0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EasySpeed: 3
-  MediumSpeed: 5
+  EasySpeed: 9.09
+  MediumSpeed: 12.25
   HardSpeed: 20
 --- !u!4 &1165797019
 Transform:
